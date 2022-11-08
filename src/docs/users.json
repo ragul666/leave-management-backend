@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Sau",
+    "phoneNumber": "9700143502",
+    "email": "saughanthikaa@gmail.com",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "hobby": "Tech",
+    "role": "superuser",
+    "id": 1,
+    "verificationToken": null
+  },
+  {
+    "name": "Sau",
+    "phoneNumber": "9700143501",
+    "email": "saughanthikaa1@gmail.com",
+    "hobby": "test",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "role": "employee",
+    "godownId": 6,
+    "id": 2
+  },
+  {
+    "name": "Sau",
+    "phoneNumber": "9700143501",
+    "email": "saughanthikaa2@gmail.com",
+    "hobby": "test",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "role": "employee",
+    "shopId": 1,
+    "id": 3
+  },
+  {
+    "name": "Sau",
+    "phoneNumber": "9700143501",
+    "email": "saughanthikaa3@gmail.com",
+    "hobby": "test",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "role": "shopEmp",
+    "shopId": 1,
+    "id": 4
+  },
+  {
+    "name": "Sau",
+    "phoneNumber": "9700143501",
+    "email": "saughanthikaa4@gmail.com",
+    "hobby": "test",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "role": "cus",
+    "id": 5
+  },
+  {
+    "name": "Sau",
+    "phoneNumber": "9700143501",
+    "email": "saughanthikaas@gmail.com",
+    "hobby": "test",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "role": "godownShipment",
+    "godownId": 6,
+    "id": 6
+  }
+]
